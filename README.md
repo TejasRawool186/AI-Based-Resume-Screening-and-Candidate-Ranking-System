@@ -23,7 +23,7 @@ AI-powered resume screening and ranking system built with Streamlit, NLP, and co
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/resume-screening-app.git
+   git clone https://github.com/TejasRawool186/AI-Based-Resume-Screening-and-Candidate-Ranking-System.git
    cd resume-screening-app
    ```
 
