@@ -57,6 +57,20 @@ AI-powered resume screening and ranking system built with Streamlit, NLP, and co
 - Integrate with a database for storing candidate information
 - Improve ranking algorithm using deep learning models
 
+## Snapshot:
+![Screenshot 2025-03-22 131534](https://github.com/user-attachments/assets/c7b0054a-ee97-4887-9492-d99a696256d4)
+
+![Screenshot 2025-03-22 131622](https://github.com/user-attachments/assets/9a3e683e-c861-45b4-a9ef-e141f84db635)
+
+![Screenshot 2025-03-22 131645](https://github.com/user-attachments/assets/7caa948e-655f-4016-9369-a7393074cb83)
+
+![Screenshot 2025-03-22 131703](https://github.com/user-attachments/assets/0b560805-31b2-43bc-95a1-fbc3a4044c7d)
+
+
+
+
+
+
 ## License
 This project is open-source and available under the MIT License.
 
