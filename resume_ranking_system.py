@@ -43,7 +43,7 @@ def rank_resumes(job_description, resumes):
     return cosine_similarities
 
 # Streamlit UI
-st.title(":rainbow[AI based Resume Screening & Candidate Ranking System]",divider="rainbow")
+st.title(":rainbow[AI based Resume Screening & Candidate Ranking System]")
 
 # Job description input
 st.header(":rainbow[Job Description]")
