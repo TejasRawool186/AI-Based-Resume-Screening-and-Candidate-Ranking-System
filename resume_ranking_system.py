@@ -43,19 +43,19 @@ def rank_resumes(job_description, resumes):
     return cosine_similarities
 
 # Streamlit UI
-st.title("AI based Resume Screening & Candidate Ranking System")
+st.title(":rainbow[AI based Resume Screening & Candidate Ranking System]",divider="rainbow")
 
 # Job description input
-st.header("Job Description")
+st.header(":rainbow[Job Description]")
 job_description = st.text_area("Enter the job description", height=200)
 
 # Resume upload
-st.header("Upload Resumes")
+st.header(":rainbow[Upload Resumes]")
 uploaded_files = st.file_uploader("Upload PDF resumes", type=["pdf"], accept_multiple_files=True)
 
 # Processing resumes
 if uploaded_files and job_description:
-    st.header("Ranking Resumes")
+    st.header(":rainbow[Ranking Resumes]")
     resumes = []
     for file in uploaded_files:
         text = extract_text_from_pdf(file)
